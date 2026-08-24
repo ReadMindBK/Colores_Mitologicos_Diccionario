@@ -15,6 +15,7 @@ border-radius:22px;
 padding:16px;
 box-shadow:0 12px 35px rgba(0,0,0,.18);
 animation:fade .6s ease;
+margin-bottom: 300px
 }
 @keyframes fade{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
 .cover{width:100%;border-radius:18px;display:block}
